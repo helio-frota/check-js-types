@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "allowJs": true,
+    "checkJs": true,
+    "rootDir": "./lib",
+    "strict": true,
+    "moduleResolution": "node"
+  },
+  "exclude": [
+    "node_modules",
+  ]
+}

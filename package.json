@@ -1,0 +1,16 @@
+{
+  "name": "check-js-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "check": "tsc --noEmit",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Helio Frota",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
