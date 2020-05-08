@@ -11,8 +11,14 @@ npm run check
 
 vscode showing the warnings:
 
-![Alt screenshot1](https://raw.githubusercontent.com/helio-frota/check-js-types/master/vscode1.jpg)
+`lib/helper.js`
 
-![Alt screenshot1](https://raw.githubusercontent.com/helio-frota/check-js-types/master/vscode2.jpg)
+![Alt screenshot1](https://raw.githubusercontent.com/helio-frota/check-js-types/master/vscode1.png)
 
-![Alt screenshot1](https://raw.githubusercontent.com/helio-frota/check-js-types/master/vscode3.jpg)
+`index.js`
+
+![Alt screenshot1](https://raw.githubusercontent.com/helio-frota/check-js-types/master/vscode2.png)
+
+`explorer side panel`
+
+![Alt screenshot1](https://raw.githubusercontent.com/helio-frota/check-js-types/master/vscode3.png)
